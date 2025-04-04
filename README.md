@@ -12,9 +12,6 @@ I'm currently working on my VibeChat project<br>I'm looking for help with backen
 ![](https://nirzak-streak-stats.vercel.app/?user=dushyantrajotia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantrajotia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dushyantrajotia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
