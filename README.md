@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my VibeChat project<br>I'm looking for help with backend (node.js)<br>I'm currently learning DSA<br>Feel free to connect 
+🔭 I'm currently working on my VibeChat project<br>🤝 I'm looking for help with backend (node.js)<br>🌱 I'm currently learning DSA<br>💬 Feel free to connect with me
 
 
 ## 🌐 Socials:
